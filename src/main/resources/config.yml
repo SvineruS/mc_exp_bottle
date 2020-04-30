@@ -1,0 +1,10 @@
+# the bottle holds exactly this amount of experience, no more no less
+xp_number: 100
+
+
+# %d - placeholder for xp_number constant above
+text_lore: "&aContains &3%d &aexperience"
+
+# first %d - placeholder for player`s current xp
+# second %d - placeholder for (xp_number - player`s current xp)
+text_not_enough_exp: "&cNot enough experience! &6You have &3%d&6, need &3%d &6more!"

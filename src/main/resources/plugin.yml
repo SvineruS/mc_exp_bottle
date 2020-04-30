@@ -1,0 +1,9 @@
+name: XpBottleStorage
+version: ${project.version}
+main: ua.svinerus.XpBottleStorage.Main
+api-version: 1.13
+prefix: XpBottleStorage
+load: STARTUP
+authors: [svinerus]
+description: Save experience in bottles!
+website: svinua.cf
