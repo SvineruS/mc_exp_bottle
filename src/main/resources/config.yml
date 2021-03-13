@@ -1,6 +1,10 @@
 # the bottle holds exactly this amount of experience, no more no less
 xp_number: 100
 
+# the percentage of experience is "lost" when throwing potion
+# 0.05 == 5% loss    =>   storage efficiency = 95%
+xp_loss: 0.05
+
 
 # %d - placeholder for xp_number constant above
 text_lore: "&aContains &3%d &aexperience"

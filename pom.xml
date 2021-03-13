@@ -6,7 +6,7 @@
 
     <groupId>ua.svinerus</groupId>
     <artifactId>XpBottleStorage</artifactId>
-    <version>1.0.0</version>
+    <version>1.1.0</version>
     <packaging>jar</packaging>
 
     <name>XpBottleStorage</name>
@@ -59,10 +59,6 @@
         <repository>
             <id>papermc-repo</id>
             <url>https://papermc.io/repo/repository/maven-public/</url>
-        </repository>
-        <repository>
-            <id>sonatype</id>
-            <url>https://oss.sonatype.org/content/groups/public/</url>
         </repository>
     </repositories>
 
